@@ -1,0 +1,26 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.powerverse.powerverseapp",
+      "sha256_cert_fingerprints": [
+        "73:E5:8D:03:3C:E0:37:C8:9E:11:5B:85:C6:55:11:23:AB:82:C4:A4:52:33:DE:0E:C9:E6:C3:DD:92:E0:08:D8",
+        "1E:AE:AD:FA:5C:A7:5D:A4:AC:D9:E4:B1:D2:E8:5F:EB:3D:4C:6A:3A:A0:9C:50:FB:AC:00:62:3D:47:BD:B6:58",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.powerverse.app",
+      "sha256_cert_fingerprints": [
+        "4E:C8:D7:F9:8E:6C:C2:0B:FE:C5:EF:10:98:E5:1F:61:E4:00:C4:B4:4B:54:55:AF:CA:63:45:84:CC:8D:D0:50",
+        "1E:AE:AD:FA:5C:A7:5D:A4:AC:D9:E4:B1:D2:E8:5F:EB:3D:4C:6A:3A:A0:9C:50:FB:AC:00:62:3D:47:BD:B6:58",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  }
+]

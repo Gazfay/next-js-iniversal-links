@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7X92B2848J.com.powerverse.powerverseapp",
+        "paths": ["*"]
+      },
+      {
+        "appID": "7X92B2848J.com.powerverse.qa.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "7X92B2848J.com.powerverse.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
