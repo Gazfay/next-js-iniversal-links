@@ -15,10 +15,70 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.powerverse.qa.app",
+      "sha256_cert_fingerprints": [
+        "AA:95:4D:F0:D7:9D:F3:53:F4:84:21:73:EC:2B:C6:83:7D:FD:2E:06:45:97:08:D4:8F:82:71:17:62:35:87:55",
+        "1E:AE:AD:FA:5C:A7:5D:A4:AC:D9:E4:B1:D2:E8:5F:EB:3D:4C:6A:3A:A0:9C:50:FB:AC:00:62:3D:47:BD:B6:58",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.powerverse.app",
       "sha256_cert_fingerprints": [
         "4E:C8:D7:F9:8E:6C:C2:0B:FE:C5:EF:10:98:E5:1F:61:E4:00:C4:B4:4B:54:55:AF:CA:63:45:84:CC:8D:D0:50",
         "1E:AE:AD:FA:5C:A7:5D:A4:AC:D9:E4:B1:D2:E8:5F:EB:3D:4C:6A:3A:A0:9C:50:FB:AC:00:62:3D:47:BD:B6:58",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.evteccharge.uat.app",
+      "sha256_cert_fingerprints": [
+        "8E:CA:58:85:A7:7C:1F:C1:CE:DA:77:6F:9B:5A:35:98:78:01:21:AC:E1:03:BD:F6:CC:20:FA:DE:55:AB:4B:CD",
+        "1E:AE:AD:FA:5C:A7:5D:A4:AC:D9:E4:B1:D2:E8:5F:EB:3D:4C:6A:3A:A0:9C:50:FB:AC:00:62:3D:47:BD:B6:58",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.evteccharge.app",
+      "sha256_cert_fingerprints": [
+        "9B:3B:87:68:EA:BD:72:FF:D5:5C:09:30:AD:D2:0C:A1:DF:C8:9C:50:88:83:D0:42:A5:F4:64:54:E9:A3:9D:E5",
+        "65:C5:CD:B0:59:02:76:AE:DF:1D:0D:4D:05:CC:F2:D4:3F:20:98:9D:63:3F:68:4B:38:D4:94:B9:D0:FD:18:25",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cordev.uat.app",
+      "sha256_cert_fingerprints": [
+        "FE:2F:56:57:DA:86:EC:A7:A6:CB:2A:9F:5F:87:9B:95:93:6B:6C:B0:67:8C:A0:1A:EE:49:C4:F5:57:BB:11:EB",
+        "1E:AE:AD:FA:5C:A7:5D:A4:AC:D9:E4:B1:D2:E8:5F:EB:3D:4C:6A:3A:A0:9C:50:FB:AC:00:62:3D:47:BD:B6:58",
+        "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cordev.app",
+      "sha256_cert_fingerprints": [
+        "6A:76:B7:6C:14:E6:20:9F:FB:8E:9B:2A:25:46:EE:D4:56:7A:88:73:91:23:BA:DD:96:61:76:E5:44:01:97:0B",
+        "97:5B:CF:5A:01:60:7A:E6:83:03:DA:9B:6C:00:D8:15:58:08:26:60:44:A3:22:12:26:0D:7E:8C:4B:A0:59:30",
         "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
       ]
     }
