@@ -1,47 +1,53 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
         "appID": "7X92B2848J.com.powerverse.powerverseapp",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       },
       {
         "appID": "7X92B2848J.com.powerverse.qa.app",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       },
       {
         "appID": "7X92B2848J.com.powerverse.app",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       },
       {
         "appID": "7X92B2848J.com.evteccharge.uat.app",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       },
       {
         "appID": "85XHF785T3.com.evteccharge.app",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       },
       {
         "appID": "7X92B2848J.com.cordev.uat.app",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       },
       {
         "appID": "SS3X9Z58D6.com.cordev.app",
         "paths": [
-          "*"
+          "*",
+          "!/s/chat/"
         ]
       }
     ]
