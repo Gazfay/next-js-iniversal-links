@@ -82,5 +82,14 @@
         "1B:44:95:04:48:AA:4B:21:78:66:1E:78:C8:C4:82:A0:3C:AF:D1:4F:77:5E:20:04:6A:41:87:97:7A:DE:84:F9"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "web",
+      "site": "https://next-js-iniversal-links-git-main-eduards-projects-2a95f3bc.vercel.app",
+      "exclude": true,
+      "paths": ["/s/chat", "/s/chat/*"]
+    }
   }
 ]
